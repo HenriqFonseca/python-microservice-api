@@ -1,0 +1,3 @@
+{"id":1,"nome":"aaaaa","preco":2222}
+{"id":2,"nome":"bbbbbbb","preco":33333}
+{"id":3,"nome":"bbbbbbb","preco":33333}
